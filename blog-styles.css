@@ -10,11 +10,12 @@ body {
 .date {
   color: #3498db;
   text-transform: uppercase;
-  letter-spacing: .2em;
+  letter-spacing: .2rem;
 }
 
 h2 {
   color: #2c3e50;
+  font-size: 2.0rem;
 }
 
 .post-container {
