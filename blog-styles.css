@@ -1,5 +1,6 @@
 body {
   border: 20px solid #bdc3c7;
+  margin: 20px 200px 20px 200px;
 }
 
 .date {
@@ -8,4 +9,8 @@ body {
 
 h2 {
   color: #2c3e50;
+}
+
+.post-container {
+  margin: 20px;
 }
